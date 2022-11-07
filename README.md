@@ -10,6 +10,14 @@ Azodov Javokir(12194924)
 Ibrokhimov Muslimjon(12194836)
 
 
+Objectives
+To have hands-on programming practices in 
+implementing the VJ algorithm using OpenCV and 
+using Haar features to detect the faces.
+❖Goals
+Real-time face detector using VJ algorithm
+Performance evaluation of face detector
+
 Face detection
 ⚫ Use the GUI for training
 ⚫ Use any face related datasets for training your Haar
