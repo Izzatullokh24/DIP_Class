@@ -1,9 +1,11 @@
-Project #1
+**Project #1
 Face Detection using Viola 
 Jones (VJ) Algorithm
+**
+**Team name: Big Bros**
 
-Team name: Big Bros
 Team leader: Makkhmmadjonov Izzatullokh(12194921)
+
 Team members: 
 
 Akhmadov Azizbek(12200311)
