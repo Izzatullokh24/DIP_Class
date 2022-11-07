@@ -29,3 +29,4 @@ members faces in different orientations, scales and
 illumination conditions
 ⚫ Finally, use the trained model (cascade classifier for testing 
 and evaluation)
+![download](https://user-images.githubusercontent.com/86156093/200327172-8c8a82c6-4991-4869-8a39-26352e0f86b9.jpg)
