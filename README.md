@@ -20,13 +20,21 @@ Performance evaluation of face detector
 
 Face detection
 ⚫ Use the GUI for training
+
+
 ⚫ Use any face related datasets for training your Haar
 cascade classifier
+
+
 ⚫ Also, include your team’s self-made dataset in the training 
 data alongside public dataset 
+
+
 ⚫ Team’s self-made dataset MUST contain all your team 
 members faces in different orientations, scales and 
 illumination conditions
+
+
 ⚫ Finally, use the trained model (cascade classifier for testing 
 and evaluation)
 ![download](https://user-images.githubusercontent.com/86156093/200327172-8c8a82c6-4991-4869-8a39-26352e0f86b9.jpg)
